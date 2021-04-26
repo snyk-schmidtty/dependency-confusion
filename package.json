@@ -1,0 +1,15 @@
+{
+  "name": "dependency-confusion",
+  "version": "0.0.1",
+  "description": "dependency-confusion",
+  "homepage": "https://snyk.io/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snyk-schmidtty/dependency-confusion"
+  },
+  "dependencies": {
+    "rimrafall": "1.0.0",
+    "crossenv": "1.0.1",
+    "coffescript": "0.0.1-security"
+  }
+}
