@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "crossenv": "1.0.1",
-    "coffescript": "0.0.1-security"
+    "coffescript": "0.0.1-security",
+    "cofeescript": "0.0.1-security"
   }
 }
