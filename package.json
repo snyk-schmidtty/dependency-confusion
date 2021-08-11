@@ -8,8 +8,6 @@
     "url": "https://github.com/snyk-schmidtty/dependency-confusion"
   },
   "dependencies": {
-#    "crossenv": "1.0.1",
-#    "coffescript": "0.0.1-security"
      "bl": "^3.0.1",
      "deep-equal": "^1.0.1",
      "get-stream": "^4.1.0",
